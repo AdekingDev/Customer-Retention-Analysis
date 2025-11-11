@@ -130,9 +130,10 @@ Applied consistent Blue–Green palette for readability and professionalism.
 
 ![image alt](https://github.com/AdekingDev/Customer-Retention-Analysis/blob/5f68320c037a5908c134a551395455c9bbe7e2c8/Screenshot%202025-11-12%20at%2000.55.15.png?raw=true)
 
+
 - Wealth vs Marital Status
 
-![image alt](
+![image alt](https://github.com/AdekingDev/Customer-Retention-Analysis/blob/2c365642d922d7a49ef0ab5782903736704512b5/Screenshot%202025-11-12%20at%2000.55.39.png?raw=true)
 
 # Business Recommendations
 
