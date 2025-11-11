@@ -56,9 +56,9 @@ By answering these, management could better target communications and improve re
 - Extracted Username from Email using text formulas.
 
 - Created Wealth Category from Annual Income using nested IF statements:
--     =IF([@Annual_Income]>=100000,"Wealthy",
-       IF([@Annual_Income]>=70000,"Rich",
-       IF([@Annual_Income]>=40000,"Average","Poor")))
+-     =IF(N2>=150000,"Wealthy",
+       IF(N2>=100000,"Rich",
+       IF(N2>=50000,"Average","Poor")))
 
 ## Pivot Table Analysis
 
@@ -122,13 +122,14 @@ Applied consistent Blue–Green palette for readability and professionalism.
 
 - Male vs Female Ownership: Males had a higher rate of home ownership, while females had slightly higher proportions in rental categories.
 
-- Top Occupations: Certain professional roles (e.g., Management, Skilled Labor, and IT) contributed the highest total annual income.
+- Top Occupations: Certain professional roles (e.g., Management, Skilled Labor, and Clerical) contributed the highest total annual income.
 
 - Children vs Wealth: Wealthier customers tended to have fewer children, while average-income groups showed larger household sizes.
 
-- Age Group by Gender: Middle-aged groups dominated both genders; younger groups showed lower representation.
+- Age Group by Gender
+  !Img alt[
 
-- Wealth vs Marital Status: Married customers were predominantly in “Rich” and “Wealthy” categories, while singles leaned toward “Average” and “Poor.”
+- Wealth vs Marital Status
 
 # Business Recommendations
 
