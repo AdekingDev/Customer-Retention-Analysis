@@ -127,9 +127,12 @@ Applied consistent Blue–Green palette for readability and professionalism.
 - Children vs Wealth: Wealthier customers tended to have fewer children, while average-income groups showed larger household sizes.
 
 - Age Group by Gender
-  ![image alt](https://github.com/AdekingDev/Customer-Retention-Analysis/blob/5f68320c037a5908c134a551395455c9bbe7e2c8/Screenshot%202025-11-12%20at%2000.55.15.png?raw=true)
+
+![image alt](https://github.com/AdekingDev/Customer-Retention-Analysis/blob/5f68320c037a5908c134a551395455c9bbe7e2c8/Screenshot%202025-11-12%20at%2000.55.15.png?raw=true)
 
 - Wealth vs Marital Status
+
+![image alt](
 
 # Business Recommendations
 
