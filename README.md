@@ -106,6 +106,8 @@ Applied consistent Blue–Green palette for readability and professionalism.
 
 - Dynamic Dashboards
 
+![image alt](https://github.com/AdekingDev/Customer-Retention-Analysis/blob/20cbec1e6dc12af67ca93f4678b8a6a99e455fd8/customerRetention.png?raw=true)
+
 ## Tools & Technologies
 
 - Microsoft Excel (Primary Tool)
